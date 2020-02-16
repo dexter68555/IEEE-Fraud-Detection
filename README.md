@@ -1,3 +1,3 @@
 # IEEE-Fraud-Detection
 
-Coming Soon
+IEEE-CIS Fraud Detection. Used LightGBM and XGBoost for this detection.
